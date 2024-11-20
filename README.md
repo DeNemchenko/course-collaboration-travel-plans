@@ -1,6 +1,7 @@
 # Travel Destinations
 
 This is a simple app to keep track of destinations I'd like to visit.
+In this project I used HTML, CSS and JavaScript. 
 
 ## Getting Started
 To run the project locally,
