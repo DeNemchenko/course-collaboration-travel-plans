@@ -1,3 +1,12 @@
 # Travel Destinations
 
-A simple app to keep track of destinations I'd like to visit.
+This is a simple app to keep track of destinations I'd like to visit.
+
+## Getting Started
+To run the project locally,
+1. Clone this repo.
+2. ```cd``` into project directory.
+3. Open ***card.html*** in your browser.
+
+## Author
+Denis Nemchenko
